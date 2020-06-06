@@ -1,7 +1,7 @@
 ﻿# Ema John Simple
 ## Ema John Simple— E-commerce Web App by React
 
-#Features
+# Features
 * An e-commerce site to sell products. 
 * Used MongoDB to store products data. 
 * Need login to check out. 
