@@ -11,7 +11,14 @@
 # Technology
 * React.js
 * React Route
+* Firebase
+* MongoDB
+* Node.js
+* Express JS
+* Stripe
+* Heroku
 * HTML
 * Css
+* Bootstrap
 * JavaScript
-* Netlify
+
